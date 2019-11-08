@@ -1,0 +1,17 @@
+D:\labgit\BLL\bin\Debug\BLL.dll
+D:\labgit\BLL\bin\Debug\BLL.pdb
+D:\labgit\BLL\bin\Debug\AutoMapper.dll
+D:\labgit\BLL\bin\Debug\DAL.dll
+D:\labgit\BLL\bin\Debug\Ninject.dll
+D:\labgit\BLL\bin\Debug\EntityFramework.dll
+D:\labgit\BLL\bin\Debug\DAL.pdb
+D:\labgit\BLL\bin\Debug\DAL.dll.config
+D:\labgit\BLL\bin\Debug\AutoMapper.pdb
+D:\labgit\BLL\bin\Debug\AutoMapper.xml
+D:\labgit\BLL\bin\Debug\Ninject.xml
+D:\labgit\BLL\bin\Debug\EntityFramework.xml
+D:\labgit\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\labgit\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\labgit\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\labgit\BLL\obj\Debug\BLL.dll
+D:\labgit\BLL\obj\Debug\BLL.pdb
